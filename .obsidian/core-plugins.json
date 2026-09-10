@@ -1,4 +1,3 @@
-<<<<<<< LOCAL
 {
   "file-explorer": true,
   "global-search": true,
@@ -18,7 +17,7 @@
   "slash-command": true,
   "editor-status": true,
   "bookmarks": true,
-  "markdown-importer": false,
+  "markdown-importer": true,
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
@@ -27,44 +26,8 @@
   "audio-recorder": false,
   "workspaces": true,
   "file-recovery": true,
-  "publish": false,
+  "publish": true,
   "sync": true,
   "bases": true,
   "webviewer": false
 }
-||||||| BASE
-
-=======
-{
-  "file-explorer": true,
-  "global-search": true,
-  "switcher": true,
-  "graph": true,
-  "backlink": true,
-  "canvas": true,
-  "outgoing-link": true,
-  "tag-pane": true,
-  "footnotes": false,
-  "properties": true,
-  "page-preview": true,
-  "daily-notes": true,
-  "templates": true,
-  "note-composer": true,
-  "command-palette": true,
-  "slash-command": true,
-  "editor-status": true,
-  "bookmarks": true,
-  "markdown-importer": false,
-  "zk-prefixer": false,
-  "random-note": false,
-  "outline": true,
-  "word-count": true,
-  "slides": true,
-  "audio-recorder": false,
-  "workspaces": true,
-  "file-recovery": true,
-  "publish": false,
-  "sync": true,
-  "bases": true
-}
->>>>>>> REMOTE

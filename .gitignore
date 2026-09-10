@@ -1,0 +1,20 @@
+# 跨平台
+.DS_Store
+Thumbs.db
+
+# Obsidian 工作区 / 本地缓存（跨设备易冲突，不上传）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/daily-notes.json
+.obsidian/plugins/*/data.local.json
+
+# 坚果云同步插件 —— 内含大量明文第三方 API 密钥，禁止上传
+.obsidian/plugins/nutstore-sync/
+
+# Agent 会话 / 本地元数据
+.agents/
+
+# 已弃用的 fast-note-sync 同步插件（含本地同步状态缓存/后端配置，已改用 Git 方案）
+.obsidian/plugins/fast-note-sync/

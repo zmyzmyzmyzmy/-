@@ -1,4 +1,12 @@
+<<<<<<< LOCAL
 [
   "obsidian-git",
   "nutstore-sync"
 ]
+||||||| BASE
+
+=======
+[
+  "nutstore-sync"
+]
+>>>>>>> REMOTE
